@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\bin\Debug\net6.0\Solving_the_problem.exe
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\bin\Debug\net6.0\Solving_the_problem.deps.json
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\bin\Debug\net6.0\Solving_the_problem.runtimeconfig.json
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\bin\Debug\net6.0\Solving_the_problem.dll
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\bin\Debug\net6.0\Solving_the_problem.pdb
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\Solving_the_problem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\Solving_the_problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\Solving_the_problem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\Solving_the_problem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\Solving_the_problem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\Solving_the_problem.dll
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\refint\Solving_the_problem.dll
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\Solving_the_problem.pdb
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\Solving_the_problem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Итоговая работа\Final_verification_work\Solving_the_problem\obj\Debug\net6.0\ref\Solving_the_problem.dll
