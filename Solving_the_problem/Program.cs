@@ -20,5 +20,8 @@ void PrintArray(string[] array)
     }
 }
 NewArrayStr(massStr, newStr);
+Console.WriteLine("Начальный массив:");
 PrintArray(massStr);
+Console.WriteLine();
+Console.WriteLine("Новый массив:");
 PrintArray(newStr);
