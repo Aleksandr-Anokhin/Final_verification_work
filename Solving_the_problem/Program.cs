@@ -1,5 +1,4 @@
-﻿// 
-string[] massStr = new string[5] {"hello", "world", "Big", "Dog", "777"};
+﻿string[] massStr = new string[5] {"hello", "world", "Big", "Dog", "777"};
 string[] newStr = new string[massStr.Length];
 void NewArrayStr(string[] massStr, string[] newStr)
 {
@@ -21,4 +20,5 @@ void PrintArray(string[] array)
     }
 }
 NewArrayStr(massStr, newStr);
+PrintArray(massStr);
 PrintArray(newStr);
